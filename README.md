@@ -3,13 +3,13 @@
 Desenvolvedor Front-End e estudante de **Análise e Desenvolvimento de Sistemas**. 
 
 ### 🛠️ Stacks:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
-![Tailwind CSS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg)
-![CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![HTML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+
+- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" width="100"/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="100"/>
+- <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" alt="React" width="100"/>
+- <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap" alt="Bootstrap" width="100"/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="100"/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="100"/>
 
 
 ### 📊 GitHub Stats
