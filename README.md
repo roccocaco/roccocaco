@@ -13,10 +13,6 @@ Desenvolvedor Front-End e estudante de **Análise e Desenvolvimento de Sistemas*
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Logo" width="80" height="80"/>
 </div>
 
-
-### 📊 GitHub Stats
-![Rocco's GitHub stats](https://github-readme-stats.vercel.app/api?username=roccocaco&show_icons=true&theme=radical)
-
 ### 📫 Contato:
 - LinkedIn: [Rocco Caco](https://www.linkedin.com/in/roccocaco/)
 
