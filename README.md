@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rocco!
 
-<!--
-**roccocaco/roccocaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End e estudante de **Análise e Desenvolvimento de Sistemas**. Estou sempre explorando novas tecnologias e criando projetos interessantes.
 
-Here are some ideas to get you started:
+### 🚀 Minhas Tecnologias Principais:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔥 Estatísticas do GitHub:
+![Rocco's GitHub stats](https://github-readme-stats.vercel.app/api?username=roccocaco&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roccocaco&layout=compact)](https://github.com/noahaiden/github-readme-stats)
+
+### 📫 Contato:
+- LinkedIn: [Rocco Caco](https://www.linkedin.com/in/roccocaco/)
+
+### ⚡ Principais Projetos:
+- [Projeto PetShop](https://github.com/roccocaco/project-petshop)
+- [Portfólio](https://github.com/roccocaco/portfolio)
