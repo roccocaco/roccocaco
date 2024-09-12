@@ -8,6 +8,4 @@ const rocco = {
   challenge: "I am currently focused on front-end"
 }
 
-## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/roccocaco)
