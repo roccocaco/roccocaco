@@ -6,6 +6,7 @@ const rocco = {
   education: ["Systems Analysis and Development"],
 
   challenge: "I am currently focused on front-end"
+  linkedin: "https://www.linkedin.com/in/roccocaco" // Connect with me on LinkedIn
 }
 
 
