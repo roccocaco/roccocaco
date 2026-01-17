@@ -1,8 +1,8 @@
 ```javascript
 const rocco = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Tailwind CSS, Bootstrap],
+  code: [Java, Javascript, Typescript, HTML, CSS],
+  tools: [React, Bootstrap],
   education: ["Software Engineering
 Undergraduate Student"],
 
